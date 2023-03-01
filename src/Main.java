@@ -22,6 +22,32 @@ public class Main {
                 else
                     stkArray[++top]=j;
             }
+
+            public double pop()
+            {
+                if (top == -1)
+                {
+                    System.out.println("Stack is Empty");
+                    return -99;
+                }
+                else
+                {
+                    return stkArray[top--];
+                }
+
+            }
+
+            public double peek()
+            {
+                if (top == -1)
+                {
+                    System.out.println("Stack is empty");
+                    return -99;
+                }
+                else {
+                    return stkArray[top];
+                }
+            }
         }
     }
 }
