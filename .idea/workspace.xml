@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba45f39e-9b61-49b0-bfe8-7a1fc994fcbe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tute1.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tute1.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
       <updated>1677654880243</updated>
       <workItem from="1677654881571" duration="156000" />
       <workItem from="1677655259655" duration="29000" />
-      <workItem from="1677655340229" duration="2416000" />
+      <workItem from="1677655340229" duration="3615000" />
     </task>
     <servers />
   </component>
